@@ -1,0 +1,10 @@
+* function-cache
+
+A Common Lisp function caching / memoization library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/function-cache.git   |
+| commit  | 6a5ada4  |
+| systems | function-cache |
+|---------+-------------------------------------------|
+
